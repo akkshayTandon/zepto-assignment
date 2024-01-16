@@ -45,4 +45,4 @@
   - [ ] When the input is blank and the user presses backspace, the last chip should get highlighted and on again pressing backspace it should get deleted.
 
 ## Deployment
- Live Preview [here]().
+ Live Preview [here](https://akkshay-tandon-zepto-assignment.netlify.app/).
